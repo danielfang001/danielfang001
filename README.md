@@ -1,4 +1,4 @@
-- 📫 Reach me at danielfang@g.ucla.edu
+- 📫 Reach me at daniel.zhijin.fang@gmail.com
 
 <!---
 danielfang001/danielfang001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
